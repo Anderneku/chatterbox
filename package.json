@@ -28,6 +28,7 @@
 		"adapter-appwrite": "^1.0.3",
 		"appwrite": "^13.0.2",
 		"colorpicker": "^2.0.0",
+		"mathjs": "^12.4.0",
 		"tinycolor": "^0.0.1"
 	}
 }

@@ -1,8 +1,6 @@
 <script>
      import { Client, Account, ID } from "appwrite";
      import {goto} from "$app/navigation";
-     import { random, randomInt } from "mathjs";
-
      import { browser } from "$app/environment";
 
      let email = ""
